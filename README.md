@@ -1,0 +1,1 @@
+# StajyerYerle-tirmeSim-lasyonu
