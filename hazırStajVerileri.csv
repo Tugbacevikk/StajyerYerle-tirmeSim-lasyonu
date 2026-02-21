@@ -1,0 +1,121 @@
+Firmalar;Kontenjanlar;Unnamed: 2;Unnamed: 3;Unnamed: 4;��renci;Tercih S�ras�;GNO
+ASELSAN;3;;;;Ogr001;CarrefourSA,Vestel,N11,Ar�elik,Ko�Sistem;3,2
+HAVELSAN;2;;;;Ogr002;Neta�,Baykar,��Net,Yemeksepeti,Ko�Digital;2,94
+TUSA�;2;;;;Ogr003;Mercedes-Benz T�rk,Param,STM Savunma,TUSA�,Peak Games;3,26
+ROKETSAN;3;;;;Ogr004;Toyota T�rkiye,Yap� Kredi Teknoloji,Neta�,Ar�elik,Beko;3,61
+STM Savunma;3;;;;Ogr005;N11,Vodafone T�rkiye,CBOT,Baykar,Yemeksepeti;2,91
+Ar�elik;2;;;;Ogr006;Ford Otosan,Yemeksepeti,Getir,Oyak Renault,Peak Games;2,91
+Beko;2;;;;Ogr007;Vodafone T�rkiye,Insider,Dream Games,Papara,STM Savunma;3,63
+Vestel;2;;;;Ogr008;Ziraat Teknoloji,Baykar,Ford Otosan,CarrefourSA,Paycell;3,31
+Bosch T�rkiye;2;;;;Ogr009;T�rk Telekom,Ford Otosan,CBOT,N11,Vodafone T�rkiye;2,81
+Siemens T�rkiye;3;;;;Ogr010;Baykar,Insider,Ko�Sistem,Toyota T�rkiye,Dream Games;3,22
+Ford Otosan;3;;;;Ogr011;Trendyol,Yap� Kredi Teknoloji,ROKETSAN,Toyota T�rkiye,TUSA�;2,81
+TOFA�;3;;;;Ogr012;Trendyol,Logo Yaz�l�m,Vodafone T�rkiye,STM Savunma,Oyak Renault;2,81
+Mercedes-Benz T�rk;3;;;;Ogr013;Ko�Digital,Param,Trendyol,Oyak Renault,Papara;3,1
+Oyak Renault;2;;;;Ogr014;�ok Marketler,Logo Yaz�l�m,Papara,CBOT,Siemens T�rkiye;2,23
+Toyota T�rkiye;2;;;;Ogr015;Turkcell,Bosch T�rkiye,T�rk Telekom,Colendi,Ko�Sistem;2,31
+T�rk Telekom;2;;;;Ogr016;CarrefourSA,Turkcell,Colendi,Teknosa,Etiya;2,78
+Turkcell;3;;;;Ogr017;Teknosa,Logo Yaz�l�m,Yemeksepeti,Toyota T�rkiye,Bosch T�rkiye;2,59
+Vodafone T�rkiye;2;;;;Ogr018;B�M,�ok Marketler,Ar�elik,iyzico,ROKETSAN;3,13
+Neta�;2;;;;Ogr019;Vestel,Siemens T�rkiye,Baykar,Ford Otosan,Dream Games;2,64
+Huawei T�rkiye;3;;;;Ogr020;Etiya,Ziraat Teknoloji,STM Savunma,N11,CBOT;2,44
+Trendyol;2;;;;Ogr021;A101,Turkcell,Ko�Sistem,ASELSAN,Dream Games;3,59
+Hepsiburada;3;;;;Ogr022;Paycell,Vestel,Dream Games,CarrefourSA,iyzico;2,91
+Getir;2;;;;Ogr023;Vodafone T�rkiye,Yap� Kredi Teknoloji,Papara,Hepsiburada,Vestel;3,03
+Yemeksepeti;3;;;;Ogr024;Neta�,Etiya,Ford Otosan,CBOT,ASELSAN;2,43
+N11;3;;;;Ogr025;Paycell,Turkcell,B�M,iyzico,TOFA�;2,78
+Logo Yaz�l�m;3;;;;Ogr026;B�M,Beko,Baykar,Huawei T�rkiye,Ziraat Teknoloji;3,04
+Softtech;3;;;;Ogr027;Mercedes-Benz T�rk,Siemens T�rkiye,Yemeksepeti,iyzico,Ford Otosan;2,54
+Etiya;2;;;;Ogr028;CarrefourSA,Yap� Kredi Teknoloji,A101,ASELSAN,Ziraat Teknoloji;3,15
+OBSS;2;;;;Ogr029;Trendyol,�ok Marketler,HAVELSAN,Vestel,Yemeksepeti;2,76
+CBOT;3;;;;Ogr030;Huawei T�rkiye,T�rk Telekom,ROKETSAN,Ko�Digital,Ar�elik;2,88
+Migros;2;;;;Ogr031;Ar�elik,Paycell,�ok Marketler,STM Savunma,iyzico;2,76
+�ok Marketler;3;;;;Ogr032;CarrefourSA,Yap� Kredi Teknoloji,Bosch T�rkiye,Peak Games,Migros;3,74
+B�M;2;;;;Ogr033;Ko�Sistem,Ford Otosan,Turkcell,A101,Ziraat Teknoloji;2,99
+A101;2;;;;Ogr034;Etiya,Oyak Renault,CarrefourSA,iyzico,Paycell;2,58
+CarrefourSA;2;;;;Ogr035;Insider,Mercedes-Benz T�rk,Param,Huawei T�rkiye,Logo Yaz�l�m;3,33
+Ko�Sistem;3;;;;Ogr036;Peak Games,Papara,Yemeksepeti,OBSS,A101;2,51
+Ko�Digital;2;;;;Ogr037;OBSS,Vestel,T�rk Telekom,Toyota T�rkiye,STM Savunma;3,08
+Teknosa;2;;;;Ogr038;Hepsiburada,HAVELSAN,Teknosa,Ko�Sistem,Toyota T�rkiye;2,22
+Ziraat Teknoloji;3;;;;Ogr039;Teknosa,Toyota T�rkiye,ASELSAN,STM Savunma,Param;2,47
+��Net;3;;;;Ogr040;Baykar,ROKETSAN,Toyota T�rkiye,STM Savunma,TUSA�;3,08
+Baykar;2;;;;Ogr041;Hepsiburada,STM Savunma,B�M,T�rk Telekom,Vodafone T�rkiye;3,3
+Papara;2;;;;Ogr042;Peak Games,�ok Marketler,Oyak Renault,CarrefourSA,Bosch T�rkiye;3,07
+Peak Games;2;;;;Ogr043;Paycell,Ko�Digital,Migros,T�rk Telekom,Softtech;2,95
+Dream Games;2;;;;Ogr044;Mercedes-Benz T�rk,Beko,Peak Games,Etiya,Getir;2,88
+Insider;2;;;;Ogr045;Etiya,Softtech,CBOT,Paycell,ROKETSAN;2,41
+Param;3;;;;Ogr046;Dream Games,Papara,Beko,ROKETSAN,Logo Yaz�l�m;2,71
+Paycell;2;;;;Ogr047;Paycell,Hepsiburada,Beko,T�rk Telekom,Mercedes-Benz T�rk;2,82
+Colendi;2;;;;Ogr048;Mercedes-Benz T�rk,CarrefourSA,OBSS,Bosch T�rkiye,Etiya;3,42
+iyzico;2;;;;Ogr049;TOFA�,Vodafone T�rkiye,CBOT,T�rk Telekom,STM Savunma;3,14
+Yap� Kredi Teknoloji;2;;;;Ogr050;OBSS,Ko�Sistem,Beko,ROKETSAN,Papara;2,29
+;;;;;Ogr051;CarrefourSA,ASELSAN,Ar�elik,iyzico,T�rk Telekom;3,13
+;;;;;Ogr052;Ford Otosan,Softtech,�ok Marketler,Migros,Oyak Renault;2,85
+;;;;;Ogr053;Logo Yaz�l�m,ROKETSAN,Ford Otosan,N11,ASELSAN;2,73
+;;;;;Ogr054;N11,Turkcell,CBOT,Neta�,Etiya;3,24
+;;;;;Ogr055;Insider,Paycell,Ko�Sistem,Peak Games,Param;3,41
+;;;;;Ogr056;�ok Marketler,Siemens T�rkiye,Mercedes-Benz T�rk,Neta�,Oyak Renault;3,37
+;;;;;Ogr057;ROKETSAN,Teknosa,Colendi,CarrefourSA,Trendyol;2,66
+;;;;;Ogr058;ROKETSAN,Teknosa,Migros,B�M,A101;2,88
+;;;;;Ogr059;Ford Otosan,ROKETSAN,B�M,Ar�elik,TOFA�;3,13
+;;;;;Ogr060;STM Savunma,Ziraat Teknoloji,Dream Games,T�rk Telekom,Logo Yaz�l�m;3,39
+;;;;;Ogr061;Vestel,Ko�Digital,T�rk Telekom,Teknosa,Ziraat Teknoloji;2,81
+;;;;;Ogr062;TUSA�,��Net,Ar�elik,Softtech,Peak Games;2,93
+;;;;;Ogr063;Teknosa,Ko�Digital,A101,Trendyol,Turkcell;2,56
+;;;;;Ogr064;Oyak Renault,Peak Games,Param,Trendyol,T�rk Telekom;2,52
+;;;;;Ogr065;Turkcell,Logo Yaz�l�m,Bosch T�rkiye,Peak Games,Papara;3,33
+;;;;;Ogr066;Huawei T�rkiye,CBOT,Trendyol,iyzico,STM Savunma;3,54
+;;;;;Ogr067;ASELSAN,CBOT,��Net,Ko�Digital,Beko;2,97
+;;;;;Ogr068;STM Savunma,CarrefourSA,Oyak Renault,B�M,Turkcell;3,4
+;;;;;Ogr069;Bosch T�rkiye,Getir,STM Savunma,T�rk Telekom,Yemeksepeti;3,14
+;;;;;Ogr070;Neta�,Ford Otosan,OBSS,CarrefourSA,Param;2,74
+;;;;;Ogr071;Huawei T�rkiye,��Net,Papara,A101,ASELSAN;3,14
+;;;;;Ogr072;Peak Games,Ko�Sistem,Huawei T�rkiye,Beko,Bosch T�rkiye;3,62
+;;;;;Ogr073;Turkcell,Vestel,Beko,Colendi,Ko�Sistem;2,99
+;;;;;Ogr074;Siemens T�rkiye,Vodafone T�rkiye,Neta�,Ziraat Teknoloji,Oyak Renault;3,63
+;;;;;Ogr075;Param,Hepsiburada,Oyak Renault,Dream Games,Baykar;1,95
+;;;;;Ogr076;Turkcell,B�M,�ok Marketler,ROKETSAN,Ar�elik;3,33
+;;;;;Ogr077;Baykar,Etiya,Vodafone T�rkiye,TUSA�,ASELSAN;3,03
+;;;;;Ogr078;Hepsiburada,Yap� Kredi Teknoloji,Bosch T�rkiye,Baykar,Turkcell;2,88
+;;;;;Ogr079;Ford Otosan,Colendi,OBSS,Ko�Sistem,Param;3,04
+;;;;;Ogr080;Etiya,Ko�Sistem,ASELSAN,Vestel,STM Savunma;2,2
+;;;;;Ogr081;Insider,Siemens T�rkiye,CarrefourSA,TUSA�,Yemeksepeti;2,91
+;;;;;Ogr082;Teknosa,Ko�Sistem,Siemens T�rkiye,Etiya,Bosch T�rkiye;3,14
+;;;;;Ogr083;TUSA�,Huawei T�rkiye,Yemeksepeti,Getir,Oyak Renault;3,59
+;;;;;Ogr084;Dream Games,T�rk Telekom,Peak Games,Beko,Getir;2,79
+;;;;;Ogr085;Yap� Kredi Teknoloji,Ko�Sistem,Softtech,��Net,Colendi;2,68
+;;;;;Ogr086;Siemens T�rkiye,T�rk Telekom,Ford Otosan,TOFA�,Softtech;2,8
+;;;;;Ogr087;HAVELSAN,TOFA�,Colendi,Hepsiburada,Softtech;3,37
+;;;;;Ogr088;Peak Games,Colendi,T�rk Telekom,Vodafone T�rkiye,Ford Otosan;3,13
+;;;;;Ogr089;Insider,Beko,N11,TUSA�,Migros;2,79
+;;;;;Ogr090;Toyota T�rkiye,Mercedes-Benz T�rk,CBOT,Getir,Huawei T�rkiye;3,21
+;;;;;Ogr091;Toyota T�rkiye,HAVELSAN,Peak Games,Mercedes-Benz T�rk,Logo Yaz�l�m;3,04
+;;;;;Ogr092;Hepsiburada,Vodafone T�rkiye,STM Savunma,Yap� Kredi Teknoloji,Getir;3,39
+;;;;;Ogr093;Papara,B�M,Logo Yaz�l�m,Dream Games,CarrefourSA;2,72
+;;;;;Ogr094;Hepsiburada,HAVELSAN,Vestel,Turkcell,TOFA�;2,87
+;;;;;Ogr095;Teknosa,Turkcell,TUSA�,Beko,Ziraat Teknoloji;2,84
+;;;;;Ogr096;Etiya,Getir,Paycell,Trendyol,Ziraat Teknoloji;2,41
+;;;;;Ogr097;B�M,Vestel,N11,Ko�Digital,Mercedes-Benz T�rk;3,12
+;;;;;Ogr098;Turkcell,TUSA�,Param,Etiya,ASELSAN;3,1
+;;;;;Ogr099;A101,CarrefourSA,Dream Games,Paycell,Colendi;3
+;;;;;Ogr100;Colendi,Peak Games,Mercedes-Benz T�rk,Yemeksepeti,Etiya;2,91
+;;;;;Ogr101;STM Savunma,Peak Games,Hepsiburada,��Net,Trendyol;2,43
+;;;;;Ogr102;Peak Games,Vestel,Paycell,Huawei T�rkiye,B�M;2,83
+;;;;;Ogr103;Huawei T�rkiye,Peak Games,Softtech,Trendyol,Logo Yaz�l�m;2,86
+;;;;;Ogr104;Insider,Neta�,Ko�Sistem,Bosch T�rkiye,Mercedes-Benz T�rk;2,68
+;;;;;Ogr105;Softtech,Peak Games,N11,Dream Games,Colendi;2,94
+;;;;;Ogr106;TOFA�,��Net,Ko�Digital,Huawei T�rkiye,Logo Yaz�l�m;3,16
+;;;;;Ogr107;Ko�Sistem,ASELSAN,Huawei T�rkiye,Neta�,Oyak Renault;3,75
+;;;;;Ogr108;Etiya,Teknosa,Ziraat Teknoloji,Papara,Trendyol;3,07
+;;;;;Ogr109;CBOT,OBSS,Dream Games,Oyak Renault,B�M;3,1
+;;;;;Ogr110;Migros,Colendi,Ford Otosan,Peak Games,Ar�elik;2,97
+;;;;;Ogr111;Neta�,B�M,Peak Games,Baykar,��Net;2,23
+;;;;;Ogr112;Hepsiburada,Ar�elik,iyzico,T�rk Telekom,Dream Games;2,99
+;;;;;Ogr113;Huawei T�rkiye,Toyota T�rkiye,Mercedes-Benz T�rk,Siemens T�rkiye,HAVELSAN;3,02
+;;;;;Ogr114;TUSA�,T�rk Telekom,Migros,��Net,Yap� Kredi Teknoloji;3,99
+;;;;;Ogr115;STM Savunma,CBOT,Softtech,Baykar,Ko�Digital;2,92
+;;;;;Ogr116;Mercedes-Benz T�rk,Param,Insider,N11,�ok Marketler;3,12
+;;;;;Ogr117;Logo Yaz�l�m,T�rk Telekom,Siemens T�rkiye,Papara,Insider;2,99
+;;;;;Ogr118;ASELSAN,iyzico,Yap� Kredi Teknoloji,Beko,Etiya;2,53
+;;;;;Ogr119;Toyota T�rkiye,TOFA�,Insider,A101,CBOT;3,46
+;;;;;Ogr120;ROKETSAN,Ko�Sistem,T�rk Telekom,Vestel,CBOT;3,3
